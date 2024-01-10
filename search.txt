@@ -1,23 +1,15 @@
-Authentication & Middleware | Jarviscamp Batch 5 :::: Authentication & Middleware | Jarviscamp Batch 5
-Laravel Eloquent ORM | Jarviscamp Batch 5 :::: Laravel Eloquent ORM | Jarviscamp Batch 5
-Model, Migration & Seeding Pada Laravel | Jarviscamp Batch 5 :::: Model, Migration & Seeding Pada Laravel | Jarviscamp Batch 5
-Laravel Blade & Template Admin | Jarviscamp Batch 5 :::: Laravel Blade & Template Admin | Jarviscamp Batch 5
-Consuming API Laravel & React | Jarviscamp Batch 4 :::: Consuming API Laravel & React | Jarviscamp Batch 4
-Memulai Belajar React JS | Jarviscamp Batch 4 :::: Memulai Belajar React JS | Jarviscamp Batch 4
-Modern JavaScript Lebih Jauh | Jarviscamp Batch 4 :::: Modern JavaScript Lebih Jauh | Jarviscamp Batch 4
-Memulai Belajar Modern JavaScript | Jarviscamp Batch 4 :::: Memulai Belajar Modern JavaScript | Jarviscamp Batch 4
-JavaScript Dasar, DOM dan Bootstrap | Jarviscamp Batch 4 :::: JavaScript Dasar, DOM dan Bootstrap | Jarviscamp Batch 4
-Model Relationship dan Sorting | #JarvisAcademy Pertemuan ke-14 :::: Model Relationship dan Sorting | #JarvisAcademy Pertemuan ke-14
-Laravel CRUD ORM | #JarvisAcademy Pertemuan ke-13 Part 2 :::: Laravel CRUD ORM | #JarvisAcademy Pertemuan ke-13 Part 2
-Laravel CRUD ORM | #JarvisAcademy Pertemuan ke-13 Part 1 :::: Laravel CRUD ORM | #JarvisAcademy Pertemuan ke-13 Part 1
-BLADE TEMPLATING LARAVEL | #JarvisAcademy Pertemuan ke-12 :::: BLADE TEMPLATING LARAVEL | #JarvisAcademy Pertemuan ke-12
-INTRO LARAVEL | #JarvisAcademy Pertemuan ke-11 :::: INTRO LARAVEL | #JarvisAcademy Pertemuan ke-11
-MEMBUAT DESIGN ERD | #JarvisAcademy Pertemuan ke-10 :::: MEMBUAT DESIGN ERD | #JarvisAcademy Pertemuan ke-10
-Belajar SQL | #JarvisAcademy Pertemuan ke-9 :::: Belajar SQL | #JarvisAcademy Pertemuan ke-9
-PHP DASAR 2 | #JarvisAcademy Pertemuan ke-7 :::: PHP DASAR 2 | #JarvisAcademy Pertemuan ke-7
-PHP DASAR | #JarvisAcademy Pertemuan ke-6 :::: PHP DASAR | #JarvisAcademy Pertemuan ke-6
-JAVASCRIPT DOM | #JarvisAcademy Pertemuan ke-5 :::: JAVASCRIPT DOM | #JarvisAcademy Pertemuan ke-5
-JAVASCRIPT DASAR! | #JarvisAcademy Pertemuan ke-4 :::: JAVASCRIPT DASAR! | #JarvisAcademy Pertemuan ke-4
-LEBIH RAPIH DENGAN BOOTSTRAP | #JarvisAcademy Pertemuan ke-3 :::: LEBIH RAPIH DENGAN BOOTSTRAP | #JarvisAcademy Pertemuan ke-3
-MENGHIAS WEB DENGAN CSS | #JarvisAcademy Pertemuan ke-2 :::: MENGHIAS WEB DENGAN CSS | #JarvisAcademy Pertemuan ke-2
-MEMBUAT PROGRAM KASIR SEDERHANA DENGAN PASCAL | NUGAS #1 :::: MEMBUAT PROGRAM KASIR SEDERHANA DENGAN PASCAL | NUGAS #1
+Persiapan Mati Mendadak - Ustadz Syafiq Riza Basalamah :::: Persiapan Mati Mendadak - Ustadz Syafiq Riza Basalamah	
+Al - Quran Obat dari Segala Penyakit - Ustadz Syafiq Riza Basalamah :::: Al - Quran Obat dari Segala Penyakit - Ustadz Syafiq Riza Basalamah	
+Ketika Rasulullah Bercerita - Ustadz Syafiq Riza Basalamah :::: Ketika Rasulullah Bercerita - Ustadz Syafiq Riza Basalamah	
+Ciri - Ciri Kamu Kerasukan Jin & Syaithon - Ustadz Syafiq Riza Basalamah :::: Ciri - Ciri Kamu Kerasukan Jin & Syaithon - Ustadz Syafiq Riza Basalamah	
+Ketika Surga dan Neraka Berbicara - Ustadz Khalid Basalamah :::: Ketika Surga dan Neraka Berbicara - Ustadz Khalid Basalamah	
+Larangan Merayakan Ulang Tahun - Ustadz Khalid Basalamah :::: Larangan Merayakan Ulang Tahun - Ustadz Khalid Basalamah	
+Rahasia Sukses Dalam Berbisnis - Ustadz Khalid Basalamah :::: Rahasia Sukses Dalam Berbisnis - Ustadz Khalid Basalamah	
+Istiqomah Dijalan Allah - Ustadz Khalid Basalamah :::: Istiqomah Dijalan Allah - Ustadz Khalid Basalamah	
+Pahami Konsep dan Apa Itu Rezeki - Ustadz Khalid Basalamah :::: Pahami Konsep dan Apa Itu Rezeki - Ustadz Khalid Basalamah	
+Nasihat Dari Bahayanya Riba!! - Ustadz Khalid Basalamah :::: Nasihat Dari Bahayanya Riba!! - Ustadz Khalid Basalamah	
+Apakah Agama Islam Yang Paling Benar?? - Ustadz Khalid Basalamah :::: Apakah Agama Islam Yang Paling Benar?? - Ustadz Khalid Basalamah	
+Hati Hati Berprasangka Kepada Allah - Ustadz Khalid Basalamah :::: Hati Hati Berprasangka Kepada Allah - Ustadz Khalid Basalamah	
+Ajarkan Anak Mu Ini Sejak Dini - Ustadz Khalid Basalamah :::: Ajarkan Anak Mu Ini Sejak Dini - Ustadz Khalid Basalamah	
+Kajian Tentang Orang Munafik - Ustadz Khalid Basalamah :::: Kajian Tentang Orang Munafik - Ustadz Khalid Basalamah	
+Kenapa Kamu Tak Kunjung Menikah - Ustadz Khalid Basalamah :::: Kenapa Kamu Tak Kunjung Menikah - Ustadz Khalid Basalamah	
