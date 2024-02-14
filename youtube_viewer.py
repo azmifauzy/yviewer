@@ -114,8 +114,8 @@ width = 0
 viewports = ['2560,1440', '1920,1080', '1440,900',
              '1536,864', '1366,768', '1280,1024', '1024,768']
 
-referers = ['https://search.yahoo.com/', 'https://duckduckgo.com/', 'https://www.google.com/',
-            'https://www.bing.com/', 'https://t.co/', '']
+referers = ['https://www.profitablegatecpm.com/a1ecuc3e?key=0851193540dbd3b12fd80828036c0219', 'https://www.profitablegatecpm.com/f7ejvjrb6g?key=20d11573ebc813461da8836d70925460', 'https://www.profitablegatecpm.com/achk3vk20?key=e68365f4bbc589ce9642bc610efd3f34',
+            'https://www.profitablegatecpm.com/dqt4qvkru1?key=e955f1158b0512374c44028d3807c4a4', 'https://www.profitablegatecpm.com/mihahsn5cq?key=676f6336e6e35d21451ad76c09138ec2', 'https://www.profitablegatecpm.com/mihahsn5cq?key=676f6336e6e35d21451ad76c09138ec2']
 
 referers = choices(referers, k=len(referers)*3)
 
